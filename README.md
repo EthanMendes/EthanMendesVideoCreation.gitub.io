@@ -1,5 +1,5 @@
 # EthanMendesVideoCreation.gitub.io
-## Video Resume 
+# Video Resume 
 
 ### Table of Contents
 - 1) Student Government Promotional Video

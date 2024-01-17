@@ -1,18 +1,10 @@
 # EthanMendesVideoCreation.gitub.io
-# Project Title
+# Video Resume 
 
-## Description
-Brief description of your project.
-
-## Table of Contents
-- [Features](#features)
-- [Code Example](#code-example)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+## Projects
+Videos I have created in the past.
 
 ## Features
-- Feature 1
+- https://youtu.be/J1VeFP4hMEs
 - Feature 2
 - Feature 3

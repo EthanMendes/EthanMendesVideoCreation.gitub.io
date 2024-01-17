@@ -1,10 +1,7 @@
 # EthanMendesVideoCreation.gitub.io
-# Video Resume 
+## Video Resume 
 
-## Projects
-Videos I have created in the past.
-
-# Table of Contents
+### Table of Contents
 - 1) Student Government Promotional Video
   2) Student Government Movie
   3) Film and Media Studies Project on cinema

@@ -9,7 +9,7 @@ Videos I have created in the past.
   2) Student Government Movie
   3) Film and Media Studies Project on cinema
   4) School Commercial 
-## Features
+## Videos 
 - https://youtu.be/J1VeFP4hMEs
 - https://youtu.be/7gJvEZj6qRY
 - https://youtu.be/d7hnwutIK0s
